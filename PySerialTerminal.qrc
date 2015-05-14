@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>icons/application-exit-2.png</file>
+    <file>icons/applications-system-2.png</file>
+    <file>icons/document-save-5.png</file>
+    <file>icons/edit-clear-3.png</file>
+    <file>icons/help-about-3.png</file>
+    <file>icons/preferences-system-session-manager.png</file>
+    <file>icons/system-run-3.png</file>
+  </qresource>
+</RCC>
