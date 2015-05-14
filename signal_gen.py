@@ -1,4 +1,25 @@
-__author__ = 'Jeong whan'
+#!/usr/bin/env python
+"""
+-----------------------------------------------------------------
+Copyright (c) 2015 Jeong-Whan Lee. All rights reserved.
+
+ This program or module is free software: you can redistribute it and/or
+ modify it under the terms of the GNU General Public License as published
+ by the Free Software Foundation, either version 2 of the License, or
+ version 3 of the License, or (at your option) any later version. It is
+ provided for educational purposes and is distributed in the hope that
+ it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+ warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See
+ the GNU General Public License for more details.
+-----------------------------------------------------------------
+@author: Jeong-whan Lee - Ivan (jwlee95@gmail.com)
+@Created: Apr 12 15:41:15 2015
+-----------------------------------------------------------------
+Revision:
+
+-----------------------------------------------------------------
+"""
+__author__ = 'Jeong-whan Lee'
 
 from math import cos, sin, pi
 import numpy as np
