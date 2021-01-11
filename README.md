@@ -1,7 +1,7 @@
-#PyDataLogger
+#PyDataLogger  
 
 
-###Overview
+#Overview
 ---
 
 This program receives multiple data-sending device via internet connection using QThread and QTcpSocket classes. Also, this program receive from a serial port by multithreads.
